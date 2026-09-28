@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/profile-banner.svg" alt="Chanul Dewdisa profile banner" width="100%"></p>
+
 <div align="center">
 
 # CHANUL DEWDISA
