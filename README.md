@@ -87,10 +87,15 @@ Game Systems & Gameplay Programming
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="./assets/github-snapshot.svg" alt="GitHub snapshot" width="49%" />
-  <img src="./assets/development-focus.svg" alt="Development focus" width="49%" />
-</p>
+<div align="center">
+
+| 💻 Projects | 🧠 Focus | 🎮 Development |
+|:---:|:---:|:---:|
+| **Web & Full-Stack** | **AI & Automation** | **Unity & C#** |
+| React • Next.js • TypeScript | AI Apps • Agents | Gameplay • Game Systems |
+| Java • PHP • Node.js | Experimentation | Interactive Projects |
+
+</div>
 
 ---
 
