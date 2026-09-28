@@ -72,6 +72,7 @@ My approach is simple: **turn an idea into a working product, then improve the e
 | **CA FrontEnd** | Next.js • React • TypeScript • SCSS • Client delivery | Private |
 | **CHANUL Portfolio 2027** | Next.js • React • AI integration • Interactive UI | Private |
 | **SmartWash Firebase** | Firebase • Application data workflows | Private |
+| **Red Hat Runner** | JavaScript • Game loop • Collision • Responsive UI | Public |
 
 > Private client/product repositories remain private. Public repositories are the shareable engineering work.
 
