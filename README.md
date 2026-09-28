@@ -4,9 +4,9 @@
 
 # CHANUL DEWDISA
 
-### Software Developer • Full-Stack • AI • Game Development
+### Software Developer • Full-Stack • Mobile • AI • Interactive Web
 
-Building practical software, modern web experiences, and experimental ideas.
+Building practical software with a focus on clean engineering, useful products and real-world problem solving.
 
 [Portfolio](https://chanul-portfolio-2027.vercel.app/) • [GitHub](https://github.com/DewdisaC)
 
@@ -16,97 +16,107 @@ Building practical software, modern web experiences, and experimental ideas.
 
 ## 👨‍💻 About
 
-I'm Chanul Dewdisa, a software developer focused on **full-stack web development, application development, AI-powered software, and game development**.
+I'm **Chanul Dewdisa**, a software developer building across modern web applications, backend systems, mobile apps and interactive experiences.
 
-I enjoy taking an idea from concept → interface → backend → deployment, while continuously learning through real projects.
+My approach is simple: **turn an idea into a working product, then improve the engineering behind it.**
 
-- 🌐 Modern web & full-stack applications
+- 🌐 Full-stack web applications
 - 📱 Cross-platform mobile development
-- ☕ Java & object-oriented software
-- 🤖 AI-powered applications and experimentation
-- 🎮 Unity & C# game development
-- 🧩 APIs, databases and software architecture
-- 🚀 Client-focused development and deployment
+- ☕ Java backend and OOP
+- 🤖 AI-powered application experiments
+- 🎮 Unity / C# and interactive software
+- 🗄️ SQL, MySQL, CRUD and data modelling
+- 🔌 REST APIs and application integration
+- 🚀 Git, GitHub and deployment workflows
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Stack
 
-**Frontend**
+**Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Runtime**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+**Backend, Data & Tools**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Selected Work
 
-| Project | Focus | Status |
+| Project | Engineering Focus | Visibility |
 |---|---|---|
-| **CA FrontEnd** | Modern web application / client project | Private |
-| **CHANUL Portfolio 2027** | Personal developer portfolio | Private |
-| **TaskTracker Mobile** | React Native task management app | Public |
-| **Employee CRUD** | Java, Jersey, Hibernate & MySQL | Public |
-| **My Game** | Game development / programming | Public |
+| **TaskTracker Mobile** | React Native • Expo • TypeScript • Local persistence • CI | Public |
+| **Employee CRUD** | Java • Jersey • Hibernate • MySQL • REST • Validation | Public |
+| **CA FrontEnd** | Next.js • React • TypeScript • SCSS • Client delivery | Private |
+| **CHANUL Portfolio 2027** | Next.js • React • AI integration • Interactive UI | Private |
+| **SmartWash Firebase** | Firebase • Application data workflows | Private |
 
-> Private client work is kept private. Public repositories contain projects that can be shared openly.
-
----
-
-## 🧠 Currently Exploring
-
-```text
-Artificial Intelligence
-Generative AI & AI Agents
-Modern Full-Stack Development
-Software Architecture
-Unity & C# Game Development
-Game Systems & Gameplay Programming
-```
+> Private client/product repositories remain private. Public repositories are the shareable engineering work.
 
 ---
 
-## 📊 GitHub
+## 🧠 Engineering Focus
 
-<div align="center">
+    FULL-STACK
+    React • Next.js • Node.js • PHP • Java • REST APIs
 
-| 💻 Projects | 🧠 Focus | 🎮 Development |
-|:---:|:---:|:---:|
-| **Web & Full-Stack** | **AI & Automation** | **Unity & C#** |
-| React • Next.js • TypeScript | AI Apps • Agents | Gameplay • Game Systems |
-| Java • PHP • Node.js | Experimentation | Interactive Projects |
+    MOBILE
+    React Native • Expo • TypeScript • Local persistence
 
-</div>
+    DATA
+    MySQL • SQL • CRUD • ORM • Data modelling
+
+    AI
+    AI-powered applications • API integration • AI assistants
+
+    INTERACTIVE
+    Unity • C# • Game systems • Creative web experiences
+
+    ENGINEERING
+    Git • GitHub • CI checks • Deployment workflows
+
+---
+
+## 📌 Portfolio Direction
+
+I'm building a portfolio that shows more than isolated tutorials:
+
+**Problem → Architecture → Implementation → Testing → Deployment → Documentation**
+
+The goal of every featured repository is to demonstrate a complete engineering workflow and make the code understandable to another developer.
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're interested in software development, collaboration, AI, web applications or game development, feel free to connect.
+Interested in software development, web applications, mobile products, backend systems, AI features or interactive experiences?
 
-**Build • Learn • Experiment • Improve**
+**Build • Learn • Ship • Improve**
 
 <div align="center">
 
-© Chanul Dewdisa Nakandala
+© Chanul Dewdisa
 
 </div>
